@@ -4,7 +4,7 @@
   "Problem": "Update",
   "Version": "1.0.0",
   "Stable_Version": {
-    "Valid_Version": {
+    "Valid_Version": [
       "1.0.0"
     ],
     "RealTime_AutoUpdate": true
